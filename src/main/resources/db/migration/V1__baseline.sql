@@ -1,0 +1,3 @@
+-- Punto de partida del historial de migraciones: todavía no crea tablas.
+-- Las tablas de turnos (usuarios, procesos de reserva, reservas, eventos procesados) llegan en migraciones posteriores.
+-- Una migración ya aplicada no se edita: cada cambio va en un archivo nuevo.
